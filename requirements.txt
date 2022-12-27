@@ -10,7 +10,7 @@ pip==19.2
 pyTelegramBotAPI==3.6.6			
 pytz==2019.2	
 requests==2.20.0	
-setuptools==40.8.0	
+setuptools==65.5.1	
 six==1.12.0	
 urllib3==1.26.5	
 websockets==9.1	
